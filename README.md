@@ -43,7 +43,7 @@ A fully functional chess game built with React, TypeScript, and Tailwind CSS.
 
 ## Demo
 
-You can see a live demo of this project [here](https://react-chess-game-demo.netlify.app).
+You can see a live demo of this project [here](https://chess2pro.netlify.app/).
 
 ## License
 
