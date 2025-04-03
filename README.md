@@ -47,4 +47,3 @@ You can see a live demo of this project [here](https://chess2pro.netlify.app/).
 
 ## License
 
-MIT
